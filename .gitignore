@@ -1,0 +1,8 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+
+# Ignore contact data files
+contact.txt
+temp.txt
